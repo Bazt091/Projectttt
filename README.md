@@ -13,3 +13,7 @@ Ademas, se presenta el Modelo Lógico, en el cual se establece las funcionalidad
 En el siguiente tablero se presentan las historias de usuarios relacionadas al proyecto:
 
 [Tablero Trello](https://trello.com/b/J1oT49La/proyecto-final)
+
+Se adjunta repositorio en GitHub
+
+[Respositorio](https://github.com/Bazt091/Project)
