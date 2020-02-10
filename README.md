@@ -4,11 +4,9 @@ Se presentara una aplicación web Warehouse Management System (WMS), para la adm
 
 Se muestra diagrama de funcionamieto pensado para implementación.
 
-![alt text][flowchart]
-[flowchart]: /flowchart.png "Diagrama de Flujo"
+![alt text](/flowchart.png "Diagrama de Flujo")
 
-![alt text][logic]
-[logic]: /logic.png "Modelo Logico"
+![alt text](/logic.png "Modelo Logico")
 
 En el siguiente tablero se presentan las historias de usuarios relacionadas al proyecto:
 
